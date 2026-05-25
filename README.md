@@ -1,22 +1,73 @@
-# ¡Hola! Soy Cesar (aka KinglotusPe) 👋
+# ¡Hola! Soy Cesar (aka Kinglotusp) 🚀
 
-Soy estudiante de **Ingeniería de Sistemas** y desarrollador apasionado por crear herramientas útiles, desde bots de automatización hasta aplicaciones. Me gusta explorar el mundo de la ciberseguridad y mi entorno de trabajo principal es Linux.
-
-### 🚀 Proyectos Destacados
-- 🤖 **[FlashVerify](https://t.me/FlashVerifyPeruBot):** Creador y desarrollador principal de este sistema de automatización para verificaciones por SMS en Telegram.
-- ⚡ **Otros desarrollos:** Creador de **LotusPlay** (App de IPTV) y herramientas de automatización con APIs.
-
-### 🛠️ Tecnologías y Herramientas
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Systems Engineering Student">
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Kubuntu%20%7C%20Debian-neon?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Linux User">
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Development-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Automation & Development">
 </p>
 
-### 📫 Conecta conmigo
-- 📢 **Comunidad:** Administro el canal de Telegram **Reino de Loto**, donde comparto código, recursos y proyectos de programación.
-- 💬 **Telegram personal:** [@Kinglotusp](https://t.me/Kinglotusp)
+---
+
+### 👨‍💻 Sobre Mí
+
+Soy desarrollador enfocado en la **automatización avanzada**, el desarrollo de infraestructura para bots y la optimización de soluciones digitales. Mi día a día transcurre diseñando scripts eficientes en **Python**, desplegando herramientas interactivas y creando ecosistemas automatizados basados en las APIs de Telegram.
+
+*   🐧 **Entorno de Trabajo:** Fiel usuario de distribuciones basadas en Debian/Kubuntu.
+*   🛠️ **Especialidad:** Automatización a gran escala utilizando **Telethon** y **GramJS**.
 
 ---
-⭐️ *De Ayacucho, Perú para el mundo.*
+
+### 🤖 Nuestros Bots Oficiales
+
+Usa exclusivamente estos enlaces para garantizar tu seguridad y el mejor servicio:
+
+| Bot en Telegram | Función Principal | Especialidad |
+| :--- | :--- | :--- |
+| [**@FlashVerifyPeruBot**](https://t.me/FlashVerifyPeruBot) 📱 | **Verificaciones SMS** | Obtención de números virtuales de múltiples países. Ideal para crear cuentas de cualquier app a precios competitivos. |
+| [**@LotusKeysBot**](https://t.me/LotusKeysBot) 🔑 | **Gestión de Accesos / Streaming** | Generación de links de inicio de sesión para cuentas hit de Netflix. Acceso rápido y directo para tus clientes. |
+| [**@LotusAd_Bot**](https://t.me/LotusAd_Bot) 📢 | **Publicidad Masiva** | Herramienta avanzada de publicidad y difusión de mensajes masivos en Telegram. Automatiza tus campaigns comerciales con facilidad. |
+
+---
+
+### 📂 Comunidad, Grupos y Cursos
+
+He unificado los canales de interacción y aprendizaje de mi ecosistema en un solo lugar. A través del siguiente enlace de carpeta, podrás acceder a los grupos donde comparto cursos, recursos de programación y donde debate toda la comunidad:
+
+*   🌐 **Accede aquí:** [Carpeta Oficial de Grupos en Telegram](https://t.me/addlist/wigY-9BP0cEwMDMx)
+*   📢 **Canal de Proyectos:** [Reino de Loto](https://t.me/Kinglotusp) *(Donde comparto código, actualizaciones y setups)*.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <!-- Backend & Scripting -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  
+  <!-- Telegram Frameworks -->
+  <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telethon">
+  <img src="https://img.shields.io/badge/GramJS-007ACC?style=flat-square&logo=javascript&logoColor=white" alt="GramJS">
+  
+  <!-- SysAdmin -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+</p>
+
+---
+
+### 📫 Conecta Conmigo
+
+¿Tienes alguna consulta comercial o quieres hablar de automatización? Encuéntrame aquí:
+
+*   💬 **Telegram Personal:** [@Kinglotusp](https://t.me/Kinglotusp)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kinglotusp&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglotusp&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%">
+</p>
