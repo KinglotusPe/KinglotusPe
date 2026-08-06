@@ -41,9 +41,7 @@ He unificado los canales de interacción y aprendizaje de mi ecosistema en un so
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <!-- Backend & Scripting -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  
   
   <!-- Telegram Frameworks -->
   <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telethon">
@@ -53,9 +51,6 @@ He unificado los canales de interacción y aprendizaje de mi ecosistema en un so
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">
   
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-</p>
 
 ---
 
