@@ -36,23 +36,6 @@ He unificado los canales de interacción y aprendizaje de mi ecosistema en un so
 *   🌐 **Accede aquí:** [Carpeta Oficial de Grupos en Telegram](https://t.me/addlist/wigY-9BP0cEwMDMx)
 *   📢 **Canal de Proyectos:** [Reino de Loto](https://t.me/Kinglotusp) *(Donde comparto código, actualizaciones y setups)*.
 
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<p align="left">
-  
-  
-  <!-- Telegram Frameworks -->
-  <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telethon">
-  <img src="https://img.shields.io/badge/GramJS-007ACC?style=flat-square&logo=javascript&logoColor=white" alt="GramJS">
-  
-  <!-- SysAdmin -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">
-  
-
----
 
 ### 📫 Conecta Conmigo
 
