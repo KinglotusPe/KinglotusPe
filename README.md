@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Systems Engineering Student">
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Kubuntu%20%7C%20Debian-neon?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Linux User">
   <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Development-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Automation & Development">
 </p>
 
