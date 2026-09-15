@@ -18,20 +18,20 @@ Soy **Cesar**, conocido en internet como **Kinglotusp**.
 
 Estudio **Ingeniería de Sistemas** y desarrollo proyectos relacionados con automatización, aplicaciones web, APIs REST, bots, sistemas de gestión y herramientas digitales.
 
-Actualmente trabajo principalmente con **Java + Spring Boot** y **Python**, además de tecnologías orientadas al desarrollo backend, bases de datos y automatización.
+Actualmente trabajo principalmente con **Java + Spring Boot** y **Python**, además de tecnologías orientadas al desarrollo backend, bases de datos, automatización e integración de servicios.
 
-Me interesa crear soluciones que puedan evolucionar desde una idea o prototipo hasta convertirse en herramientas y productos funcionales.
+Me interesa desarrollar proyectos que puedan evolucionar desde una idea o prototipo hasta convertirse en herramientas reales y útiles.
 
-* ☕ Desarrollo backend con **Java y Spring Boot**
-* 🐍 Automatización y bots con **Python**
-* 🌐 Desarrollo de **APIs REST**
-* 🗄️ Bases de datos **MySQL y PostgreSQL**
-* 🤖 Automatización mediante **Telegram Bots**
-* 📡 Integraciones con APIs y servicios externos
-* 🐧 Usuario de Linux / Debian / Kubuntu
-* 🔧 Uso de **Git, GitHub y Maven**
-* 🚀 Interés en SaaS, ERP, automatización y aplicaciones móviles
-* 📚 Siempre aprendiendo nuevas tecnologías
+- ☕ Desarrollo backend con **Java y Spring Boot**
+- 🐍 Automatización y bots con **Python**
+- 🌐 Desarrollo de **APIs REST**
+- 🗄️ Bases de datos **MySQL y PostgreSQL**
+- 🤖 Automatización mediante **Telegram Bots**
+- 📡 Integraciones con APIs y servicios externos
+- 🐧 Usuario de Linux / Debian / Kubuntu
+- 🔧 Git, GitHub y Maven
+- 🚀 Interés en SaaS, ERP, automatización y aplicaciones móviles
+- 📚 Siempre aprendiendo nuevas tecnologías
 
 ---
 
@@ -41,12 +41,15 @@ Me interesa crear soluciones que puedan evolucionar desde una idea o prototipo h
 
 Sistema de gestión para gimnasios diseñado para centralizar diferentes procesos administrativos y operativos.
 
-Incluye funcionalidades destinadas a facilitar la gestión de clientes, membresías y otras operaciones relacionadas con un gimnasio.
+Incluye funcionalidades orientadas a la gestión de clientes, membresías y otras operaciones relacionadas con un gimnasio.
 
-🔗 **Repositorio oficial:**
+<p>
+  <a href="https://github.com/KinglotusPe/gymOS">
+    <img src="https://img.shields.io/badge/GitHub-gymOS-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-[![gymOS](https://img.shields.io/badge/GitHub-gymOS-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KinglotusPe/gymOS)
-
+🔗 Repositorio:  
 https://github.com/KinglotusPe/gymOS
 
 ---
@@ -61,42 +64,44 @@ La idea es desarrollar una plataforma tecnológica orientada a conectar a las pe
 
 Mi objetivo a largo plazo es que este proyecto pueda crecer con el apoyo de:
 
-* 🏢 Empresas
-* 🤝 ONG
-* 🏛️ Instituciones públicas o privadas
-* 🧑‍💻 Desarrolladores y colaboradores
-* ❤️ Organizaciones sociales
-* 💡 Personas interesadas en apoyar proyectos de impacto social
-
-Busco que **Red Ayuda Pontiemprende** pueda convertirse en una solución funcional y sostenible, capaz de generar un impacto positivo en la comunidad.
+- 🏢 Empresas
+- 🤝 ONG
+- 🏛️ Instituciones públicas o privadas
+- 🧑‍💻 Desarrolladores
+- ❤️ Organizaciones sociales
+- 💡 Comunidades tecnológicas
+- 💰 Personas o entidades interesadas en financiar proyectos de impacto social
 
 ### 🚧 Estado actual
 
 El proyecto se encuentra en **fase de desarrollo y experimentación**.
 
-Todavía queda mucho por construir, mejorar y validar antes de que pueda utilizarse como una solución real.
+Todavía queda trabajo por realizar antes de que pueda utilizarse como una solución real.
 
-### 🤝 ¿Quieres colaborar?
+### 🤝 Busco colaboradores
 
-Si representas a una empresa, ONG, institución, comunidad tecnológica o simplemente tienes interés en apoyar el desarrollo del proyecto, estoy abierto a:
+Estoy abierto a:
 
-* Colaboraciones técnicas
-* Mentoría
-* Validación de la idea
-* Alianzas
-* Apoyo en infraestructura
-* Difusión
-* Financiamiento
-* Pruebas piloto
-* Contacto con instituciones relacionadas
+- Colaboraciones técnicas
+- Mentoría
+- Validación de la idea
+- Alianzas
+- Apoyo en infraestructura
+- Difusión
+- Financiamiento
+- Pruebas piloto
+- Contacto con instituciones relacionadas
 
-🔗 **Repositorio oficial:**
+<p>
+  <a href="https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende">
+    <img src="https://img.shields.io/badge/GitHub-Red%20Ayuda%20Pontiemprende-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-[![Red Ayuda Pontiemprende](https://img.shields.io/badge/GitHub-Red%20Ayuda%20Pontiemprende-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende)
-
+🔗 Repositorio:  
 https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende
 
-> 💙 Me gustaría que este proyecto algún día deje de ser solamente código y pueda convertirse en una herramienta real de ayuda para las personas.
+> 💙 Mi objetivo es que este proyecto algún día deje de ser solamente código y pueda convertirse en una herramienta real de ayuda para las personas.
 
 ---
 
@@ -108,16 +113,16 @@ Lotus Core es una idea de ERP modular que tengo previsto desarrollar para adapta
 
 La visión del proyecto contempla progresivamente módulos como:
 
-* Inventario
-* Ventas
-* POS
-* Clientes
-* Proveedores
-* Roles y permisos
-* Reportes
-* Gestión empresarial
-* Numeración y correlativos
-* Arquitectura Multi-Tenant
+- Inventario
+- Ventas
+- POS
+- Clientes
+- Proveedores
+- Roles y permisos
+- Reportes
+- Gestión empresarial
+- Numeración y correlativos
+- Arquitectura Multi-Tenant
 
 ### 🧩 Stack previsto
 
@@ -127,39 +132,47 @@ La visión del proyecto contempla progresivamente módulos como:
 
 ---
 
-# 🤖 Bots Oficiales de Telegram
+# 🤖 Bots oficiales de Telegram
 
 > 🔐 **Usa exclusivamente los siguientes enlaces oficiales para garantizar tu seguridad y acceder a los servicios correctos.**
 
-| Bot en Telegram                                               | Función principal                        | Servicios                                                                                                                                                                                                                      |
-| :------------------------------------------------------------ | :--------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bot en Telegram | Función principal | Servicios |
+| :--- | :--- | :--- |
 | [**@FlashVerifyPeruBot**](https://t.me/FlashVerifyPeruBot) 📱 | **Servicios digitales y verificaciones** | Números virtuales para verificaciones SMS de múltiples países. También cuenta con vendedores que ofrecen cuentas y perfiles de streaming, accesos a grupos VIP, licencias de productos originales y otros servicios digitales. |
-| [**@LotusKeysBot**](https://t.me/LotusKeysBot) 🔑             | **Gestión de accesos / Streaming**       | Automatización de accesos y generación de enlaces de inicio de sesión para servicios compatibles.                                                                                                                              |
-| [**@LotusAd_Bot**](https://t.me/LotusAd_Bot) 📢               | **Publicidad y difusión**                | Herramienta de automatización para campañas, publicación y difusión de mensajes dentro de Telegram.                                                                                                                            |
+| [**@LotusKeysBot**](https://t.me/LotusKeysBot) 🔑 | **Gestión de accesos / Streaming** | Automatización de accesos y gestión de servicios digitales compatibles. |
+| [**@LotusAd_Bot**](https://t.me/LotusAd_Bot) 📢 | **Publicidad y difusión** | Herramienta de automatización para campañas, publicación y difusión de mensajes dentro de Telegram. |
 
 ---
 
 ## 📱 FlashVerify Peru
 
-[![FlashVerify Peru](https://img.shields.io/badge/Telegram-@FlashVerifyPeruBot-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/FlashVerifyPeruBot)
+<p>
+  <a href="https://t.me/FlashVerifyPeruBot">
+    <img src="https://img.shields.io/badge/Telegram-@FlashVerifyPeruBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 🔗 https://t.me/FlashVerifyPeruBot
 
 Servicios disponibles:
 
-* 📲 Números virtuales para verificaciones SMS
-* 🌎 Números de distintos países
-* 🎬 Cuentas y accesos de streaming ofrecidos por vendedores
-* 👑 Accesos a grupos VIP
-* 🔑 Licencias de productos originales
-* 🛒 Otros servicios digitales
-* 🤖 Procesos automatizados mediante Telegram
+- 📲 Números virtuales para verificaciones SMS
+- 🌎 Números de distintos países
+- 🎬 Cuentas y accesos de streaming ofrecidos por vendedores
+- 👑 Accesos a grupos VIP
+- 🔑 Licencias de productos originales
+- 🛒 Otros servicios digitales
+- 🤖 Procesos automatizados mediante Telegram
 
 ---
 
 ## 🔑 LotusKeys
 
-[![LotusKeys](https://img.shields.io/badge/Telegram-@LotusKeysBot-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/LotusKeysBot)
+<p>
+  <a href="https://t.me/LotusKeysBot">
+    <img src="https://img.shields.io/badge/Telegram-@LotusKeysBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 🔗 https://t.me/LotusKeysBot
 
@@ -169,7 +182,11 @@ Bot orientado a la automatización y gestión de accesos digitales.
 
 ## 📢 LotusAd
 
-[![LotusAd](https://img.shields.io/badge/Telegram-@LotusAd__Bot-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/LotusAd_Bot)
+<p>
+  <a href="https://t.me/LotusAd_Bot">
+    <img src="https://img.shields.io/badge/Telegram-@LotusAd__Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 🔗 https://t.me/LotusAd_Bot
 
@@ -208,42 +225,50 @@ Herramienta orientada a la automatización de publicidad, campañas y difusión 
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kinglotusp&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglotusp&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kinglotusp&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    height="170"
+    alt="Estadísticas de GitHub"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglotusp&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+    alt="Lenguajes más usados"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinglotusp&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-# 📈 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinglotusp&theme=github-compact&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Kinglotusp&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 # 🌐 Comunidad
 
-Además del desarrollo de software, mantengo una comunidad donde comparto contenido, proyectos y recursos relacionados con tecnología.
+Además del desarrollo de software, mantengo una comunidad donde comparto proyectos, herramientas y recursos relacionados con tecnología.
 
-* 💻 Programación
-* 🧠 Recursos tecnológicos
-* 🤖 Automatización
-* 📚 Cursos
-* 🛠️ Herramientas
-* 🚀 Nuevos proyectos
-* 🧪 Experimentos
-* 📢 Actualizaciones
+- 💻 Programación
+- 🧠 Recursos tecnológicos
+- 🤖 Automatización
+- 📚 Cursos
+- 🛠️ Herramientas
+- 🚀 Nuevos proyectos
+- 🧪 Experimentos
+- 📢 Actualizaciones
 
 ## 📢 Reino de Loto
 
 Canal oficial donde comparto proyectos, herramientas, novedades y contenido de la comunidad.
 
-[![Reino de Loto](https://img.shields.io/badge/Telegram-Reino%20de%20Loto-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/ReinoDeLoto)
+<p>
+  <a href="https://t.me/ReinoDeLoto">
+    <img src="https://img.shields.io/badge/Telegram-Reino%20de%20Loto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 🔗 https://t.me/ReinoDeLoto
 
@@ -251,7 +276,11 @@ Canal oficial donde comparto proyectos, herramientas, novedades y contenido de l
 
 ## 👥 Grupos y comunidad
 
-[![Comunidad Telegram](https://img.shields.io/badge/Telegram-Grupos%20de%20la%20Comunidad-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/addlist/wigY-9BP0cEwMDMx)
+<p>
+  <a href="https://t.me/addlist/wigY-9BP0cEwMDMx">
+    <img src="https://img.shields.io/badge/Telegram-Grupos%20de%20la%20Comunidad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 🔗 https://t.me/addlist/wigY-9BP0cEwMDMx
 
@@ -259,7 +288,7 @@ Canal oficial donde comparto proyectos, herramientas, novedades y contenido de l
 
 # ☕ Apoya mis proyectos
 
-Si alguno de mis proyectos, herramientas o recursos te resulta útil y quieres apoyar lo que hago:
+Si alguno de mis proyectos, herramientas o recursos te resulta útil y quieres apoyar mi trabajo:
 
 <p align="center">
   <a href="https://buymeacoffee.com/kinglotusp">
@@ -269,44 +298,20 @@ Si alguno de mis proyectos, herramientas o recursos te resulta útil y quieres a
 
 🔗 https://buymeacoffee.com/kinglotusp
 
----
-
-# 📫 Conecta conmigo
-
-<p align="center">
-
-  <a href="https://t.me/Kinglotusp">
-    <img src="https://img.shields.io/badge/Telegram-@Kinglotusp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-
-  <a href="https://github.com/Kinglotusp">
-    <img src="https://img.shields.io/badge/GitHub-Kinglotusp-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://buymeacoffee.com/kinglotusp">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Kinglotusp-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000">
-  </a>
-
-</p>
-
-### 🔗 Enlaces oficiales
-
-* 💬 **Telegram personal:** [@Kinglotusp](https://t.me/Kinglotusp)
-* 📢 **Reino de Loto:** [@ReinoDeLoto](https://t.me/ReinoDeLoto)
-* ☕ **Buy Me a Coffee:** [buymeacoffee.com/kinglotusp](https://buymeacoffee.com/kinglotusp)
-* 📱 **FlashVerify Peru:** [@FlashVerifyPeruBot](https://t.me/FlashVerifyPeruBot)
-* 🔑 **LotusKeys:** [@LotusKeysBot](https://t.me/LotusKeysBot)
-* 📢 **LotusAd:** [@LotusAd_Bot](https://t.me/LotusAd_Bot)
-* 👥 **Comunidad:** [Carpeta de grupos de Telegram](https://t.me/addlist/wigY-9BP0cEwMDMx)
-* 🏋️ **gymOS:** [github.com/KinglotusPe/gymOS](https://github.com/KinglotusPe/gymOS)
-* 🆘 **Red Ayuda Pontiemprende:** [github.com/KinglotusPe/Red_Ayuda_Pontiemprende](https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende)
+Tu apoyo ayuda a continuar desarrollando proyectos, mantener servicios y experimentar con nuevas ideas.
 
 ---
 
-<p align="center">
-  <b>🪷 Construyendo, aprendiendo y automatizando una idea a la vez.</b>
-</p>
+# 🎯 Actualmente aprendiendo
 
-<p align="center">
-  ⭐ Si alguno de mis proyectos te resulta útil, considera dejar una estrella, colaborar o apoyar mi trabajo.
-</p>
+```text
+├── Arquitectura de software
+├── Spring Boot avanzado
+├── APIs REST
+├── Microservicios
+├── Docker
+├── CI/CD
+├── GitHub Actions
+├── Arquitecturas Multi-Tenant
+├── Desarrollo móvil
+└── Cloud Computing
