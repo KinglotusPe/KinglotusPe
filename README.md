@@ -51,28 +51,52 @@ https://github.com/KinglotusPe/gymOS
 
 ---
 
-## 📦 Sistema JIREH
+## 🆘 Red Ayuda Pontiemprende
 
-Proyecto de **sistema de ventas y control de inventario** desarrollado para una distribuidora.
+**Sistema actualmente en desarrollo.**
 
-El sistema contempla módulos como:
+**Red Ayuda Pontiemprende** es un proyecto que quiero llevar más allá de una demostración técnica y convertir, a futuro, en una herramienta real que pueda ayudar a personas en situaciones de emergencia, riesgo o necesidad.
 
-* Productos
-* Categorías
-* Marcas
-* Unidades de medida
-* Clientes
-* Proveedores
-* Compras
-* Ventas
-* Inventario
-* Control de stock
-* Usuarios y roles
-* Reportes
+La idea es desarrollar una plataforma tecnológica orientada a conectar a las personas con mecanismos de ayuda, contactos de emergencia y servicios de asistencia de una manera rápida y accesible.
 
-### 🛠️ Tecnologías
+Mi objetivo a largo plazo es que este proyecto pueda crecer con el apoyo de:
 
-`Java` · `Spring Boot` · `Spring Data JPA` · `MySQL` · `Maven` · `REST API`
+* 🏢 Empresas
+* 🤝 ONG
+* 🏛️ Instituciones públicas o privadas
+* 🧑‍💻 Desarrolladores y colaboradores
+* ❤️ Organizaciones sociales
+* 💡 Personas interesadas en apoyar proyectos de impacto social
+
+Busco que **Red Ayuda Pontiemprende** pueda convertirse en una solución funcional y sostenible, capaz de generar un impacto positivo en la comunidad.
+
+### 🚧 Estado actual
+
+El proyecto se encuentra en **fase de desarrollo y experimentación**.
+
+Todavía queda mucho por construir, mejorar y validar antes de que pueda utilizarse como una solución real.
+
+### 🤝 ¿Quieres colaborar?
+
+Si representas a una empresa, ONG, institución, comunidad tecnológica o simplemente tienes interés en apoyar el desarrollo del proyecto, estoy abierto a:
+
+* Colaboraciones técnicas
+* Mentoría
+* Validación de la idea
+* Alianzas
+* Apoyo en infraestructura
+* Difusión
+* Financiamiento
+* Pruebas piloto
+* Contacto con instituciones relacionadas
+
+🔗 **Repositorio oficial:**
+
+[![Red Ayuda Pontiemprende](https://img.shields.io/badge/GitHub-Red%20Ayuda%20Pontiemprende-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende)
+
+https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende
+
+> 💙 Me gustaría que este proyecto algún día deje de ser solamente código y pueda convertirse en una herramienta real de ayuda para las personas.
 
 ---
 
@@ -275,6 +299,7 @@ Si alguno de mis proyectos, herramientas o recursos te resulta útil y quieres a
 * 📢 **LotusAd:** [@LotusAd_Bot](https://t.me/LotusAd_Bot)
 * 👥 **Comunidad:** [Carpeta de grupos de Telegram](https://t.me/addlist/wigY-9BP0cEwMDMx)
 * 🏋️ **gymOS:** [github.com/KinglotusPe/gymOS](https://github.com/KinglotusPe/gymOS)
+* 🆘 **Red Ayuda Pontiemprende:** [github.com/KinglotusPe/Red_Ayuda_Pontiemprende](https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende)
 
 ---
 
@@ -283,5 +308,5 @@ Si alguno de mis proyectos, herramientas o recursos te resulta útil y quieres a
 </p>
 
 <p align="center">
-  ⭐ Si alguno de mis proyectos te resulta útil, considera dejar una estrella o apoyar mi trabajo.
+  ⭐ Si alguno de mis proyectos te resulta útil, considera dejar una estrella, colaborar o apoyar mi trabajo.
 </p>
