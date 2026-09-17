@@ -54,59 +54,6 @@ https://github.com/KinglotusPe/gymOS
 
 ---
 
-## 🆘 Red Ayuda Pontiemprende
-
-**Sistema actualmente en desarrollo.**
-
-**Red Ayuda Pontiemprende** es un proyecto que quiero convertir, a futuro, en una herramienta real orientada a ayudar a personas en situaciones de emergencia, riesgo o necesidad.
-
-La idea es desarrollar una plataforma tecnológica capaz de facilitar la comunicación con contactos de emergencia y mecanismos de asistencia de una forma rápida y accesible.
-
-### 🎯 Objetivo a futuro
-
-Quiero que el proyecto pueda crecer con apoyo de:
-
-- 🏢 Empresas
-- 🤝 ONG
-- 🏛️ Instituciones públicas o privadas
-- 🧑‍💻 Desarrolladores y colaboradores
-- ❤️ Organizaciones sociales
-- 💡 Comunidades tecnológicas
-- 💰 Personas o entidades interesadas en apoyar proyectos de impacto social
-
-### 🚧 Estado actual
-
-El proyecto se encuentra en **fase de desarrollo, experimentación y validación**.
-
-Todavía requiere pruebas, mejoras técnicas, revisión de seguridad y validación antes de poder considerarse una solución apta para uso real.
-
-### 🤝 Busco colaboradores
-
-Estoy abierto a:
-
-- Colaboraciones técnicas
-- Mentoría
-- Validación del proyecto
-- Alianzas
-- Apoyo en infraestructura
-- Difusión
-- Financiamiento
-- Pruebas piloto
-- Contacto con empresas, ONG o instituciones
-
-<p>
-  <a href="https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende">
-    <img src="https://img.shields.io/badge/GitHub-Red%20Ayuda%20Pontiemprende-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio Red Ayuda Pontiemprende">
-  </a>
-</p>
-
-🔗 **Repositorio:**  
-https://github.com/KinglotusPe/Red_Ayuda_Pontiemprende
-
-> 💙 Mi objetivo es que este proyecto algún día deje de ser solamente código y pueda convertirse en una herramienta real de ayuda para las personas.
-
----
-
 ## 🪷 Lotus Core
 
 **Proyecto en etapa de planificación y diseño.**
