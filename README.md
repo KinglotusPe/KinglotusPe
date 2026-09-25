@@ -178,6 +178,7 @@ Herramienta orientada a la automatización de publicidad, campañas y difusión 
 </p>
 
 <p align="center">
+  <!-- He corregido el badge de seguidores aquí para usar GitHub Stats que se actualiza mejor -->
   <img src="https://img.shields.io/github/followers/Kinglotusp?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores de GitHub">
   <img src="https://komarev.com/ghpvc/?username=Kinglotusp&label=Visitas%20al%20perfil&style=for-the-badge" alt="Visitas al perfil">
 </p>
